@@ -2,7 +2,7 @@
 # Contributor: ahmad200512@yandex.ru
 
 pkgname='teamcity'
-pkgver='9.0.2'
+pkgver='9.0.3'
 pkgrel='1'
 pkgdesc='Continuous integration server from JetBrains'
 arch=('any')
